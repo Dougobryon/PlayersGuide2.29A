@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\PlayersGuide2.29A\PlayersGuide2.29A\bin\Debug\PlayersGuide2.29A.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\PlayersGuide2.29A\PlayersGuide2.29A\bin\Debug\PlayersGuide2.29A.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\PlayersGuide2.29A\PlayersGuide2.29A\bin\Debug\PlayersGuide2.29A.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\PlayersGuide2.29A\PlayersGuide2.29A\obj\Debug\PlayersGuide2.29A.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\PlayersGuide2.29A\PlayersGuide2.29A\obj\Debug\PlayersGuide2.29A.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\PlayersGuide2.29A\PlayersGuide2.29A\obj\Debug\PlayersGuide2.29A.pdb
